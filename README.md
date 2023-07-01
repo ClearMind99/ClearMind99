@@ -1,6 +1,7 @@
 ## Начинающий QA Специалист
 [Мое резюме](https://drive.google.com/file/d/1dfGXz3qcLgHuBpNOrCDuVl8MU153-ySm/view?usp=sharing)
 
+
 ### Tools
 ![Postman](https://img.shields.io/badge/Postman-000000?style-for-the-badge&logo=postman)
 ![Python](https://img.shields.io/badge/Python(basics)-000000?style-for-the-badge&logo=Python)
@@ -16,3 +17,8 @@
 - [Тест кейсы](https://docs.google.com/spreadsheets/d/1YM7sUp1iKzfJlVcFPrCdVxRNxokft_tVfkJnAxjLdq8/edit?usp=sharing)
 - [Чек листы]()
 - [Postman](https://docs.google.com/spreadsheets/d/1uw7K3FVntexHWg3BNDfTZau2saVmvp2HG8SIrP6rC4g/edit?usp=sharing)
+
+## Книги по тестированию
+
+- Тестирование программного обеспечения. Базовый курс (Святослав Куликов)
+- Тестирование Дот Ком (Роман Савин)
