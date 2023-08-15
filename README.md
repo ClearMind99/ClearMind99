@@ -17,6 +17,7 @@
 - [Тест кейсы](https://docs.google.com/spreadsheets/d/1YM7sUp1iKzfJlVcFPrCdVxRNxokft_tVfkJnAxjLdq8/edit?usp=sharing)
 - [Чек листы]()
 - [Postman](https://docs.google.com/spreadsheets/d/1uw7K3FVntexHWg3BNDfTZau2saVmvp2HG8SIrP6rC4g/edit?usp=sharing)
+- [Bug report's (SFERA)](https://docs.google.com/spreadsheets/d/1Lz7QWFImySufoKufHvNEHQ83SxYa5MnM1V2R4st9z4w/edit?usp=sharing)
 
 ## Книги по тестированию
 
