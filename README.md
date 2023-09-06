@@ -1,5 +1,5 @@
 ## Начинающий QA Специалист
-[Мое резюме](https://drive.google.com/file/d/1dfGXz3qcLgHuBpNOrCDuVl8MU153-ySm/view?usp=sharing)
+[Мое резюме](https://drive.google.com/file/d/1UNE8rFiQb49X6htLu6_al7XV6wP848zx/view?usp=sharing)
 
 
 ### Tools
