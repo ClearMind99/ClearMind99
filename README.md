@@ -9,4 +9,4 @@
 ![HTML](https://img.shields.io/badge/HTML-000000)
 ![CSS](https://img.shields.io/badge/CSS-000000)
 ![TestRail](https://img.shields.io/badge/TestRail-000000)
-
+![1C](https://img.shields.io/badge/1C-ffff00)
